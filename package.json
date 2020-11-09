@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-prefer-numeric-separator",
+  "version": "1.0.0",
+  "description": "Prefer numeric separator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/lib/rules/prefer-numeric-separator.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.8.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "es2021"
+  ],
+  "author": "Naoise Golden Santos <naoise.golden@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.13.0"
+  }
+}
